@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?y5ke81');
+  src:  url('../fonts/icomoon.eot?y5ke81#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?y5ke81') format('truetype'),
+    url('../fonts/icomoon.woff?y5ke81') format('woff'),
+    url('../fonts/icomoon.svg?y5ke81#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-right1:before {
+  content: "\e946";
+}
+.icon-mail-outline:before {
+  content: "\e947";
+}
+.icon-icon-mail:before {
+  content: "\e948";
+}
+.icon-icon-phone:before {
+  content: "\e949";
+}
+.icon-phone-outline:before {
+  content: "\e94a";
+}
+.icon-phone-solid:before {
+  content: "\e94b";
+}
+.icon-icon-user:before {
+  content: "\e94c";
+}
+.icon-sphere:before {
+  content: "\e9c9";
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="29.243px" height="29.243px" viewBox="0 0 29.243 29.243" enable-background="new 0 0 29.243 29.243" xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M14.621,0C6.547,0,0,6.547,0,14.622c0,7.298,5.347,13.347,12.337,14.444V18.848H8.625v-4.226h3.712v-3.221
+			c0-3.665,2.183-5.689,5.523-5.689c1.599,0,3.272,0.285,3.272,0.285v3.599h-1.843c-1.816,0-2.383,1.127-2.383,2.283v2.743h4.055
+			l-0.648,4.226h-3.407v10.218c6.99-1.097,12.337-7.146,12.337-14.444C29.243,6.547,22.697,0,14.621,0z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="0" y1="29.2449" x2="1" y2="29.2449" gradientTransform="matrix(20.6777 20.6777 20.6777 -20.6777 -600.3911 608.9562)">
+		<stop  offset="0" style="stop-color:#1677F1"/>
+		<stop  offset="0.1753" style="stop-color:#186EE9"/>
+		<stop  offset="0.4604" style="stop-color:#1D56D3"/>
+		<stop  offset="0.8179" style="stop-color:#262FB0"/>
+		<stop  offset="1" style="stop-color:#2B189C"/>
+	</linearGradient>
+	<polygon clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" points="14.621,-14.622 43.776,14.533 14.621,43.687 -14.533,14.533 	
+		"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_4_" y="0" width="29.243" height="29.243"/>
+	</defs>
+	<clipPath id="SVGID_5_">
+		<use xlink:href="#SVGID_4_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_5_)" fill="#FFFFFF" d="M20.313,18.848l0.648-4.227h-4.055v-2.742c0-1.156,0.566-2.283,2.383-2.283
+		h1.844V5.997c0,0-1.674-0.285-3.273-0.285c-3.34,0-5.523,2.024-5.523,5.688v3.221H8.625v4.227h3.712v10.217
+		c0.744,0.117,1.507,0.178,2.285,0.178c0.777,0,1.54-0.061,2.284-0.178V18.848H20.313z"/>
+</g>
+</svg>
